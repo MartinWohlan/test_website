@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: MMA4SPA
+title: MM4SPA
 email: m.wohlan@dshs-koeln.de
 description: >- # this means to ignore newlines until "baseurl:"
   Hier kann eine Projektbeschreibung hin. Diese wird für die Google suche im dukoment head meta und in der feed.xml site beschreibung zu sehen sein.
