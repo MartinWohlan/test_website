@@ -21,7 +21,7 @@
 title: MM4SPA
 email: m.wohlan@dshs-koeln.de
 description: >- # this means to ignore newlines until "baseurl:"
-  Hier kann eine Projektbeschreibung hin. Diese wird für die Google suche im dukoment head meta und in der feed.xml site beschreibung zu sehen sein.
+  Hier kann eine Projektbeschreibung hin. Diese wird für die Google suche im dokument head meta und in der feed.xml site beschreibung zu sehen sein.
 baseurl: "/test_website" # the subpath of your site, e.g. /blog
 url: "https://martinwohlan.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: twitter_username
