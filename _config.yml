@@ -27,6 +27,20 @@ url: "https://martinwohlan.github.io" # the base hostname & protocol for your si
 twitter_username: twitter_username
 github_username:  github_username
 
+
+#author is the default for posts and it is used in the footer
+author: Martin Wohlan
+facebook_username: facebook_username
+youtube_username: youtube_username
+
+
+#new fields (nicht in minima Layout enthalten)
+
+#title-logo is a new field that, when used, displays a logo
+# Ideally image is 50px high and takes up minimal horizontal space
+title-logo: /images/title-logo.jpg
+
+
 # Build settings
 # Haben die ordner von dem minima theme hier bei uns eingefügt, dadurch muss das theme in diesem File nicht mehr angegeben werden (=regular Theme)
 #theme: minima #Bei ÄNDERUNG sicher gehen, ob von github pages unterstützt
