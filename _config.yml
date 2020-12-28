@@ -38,7 +38,7 @@ youtube_username: youtube_username
 
 #title-logo is a new field that, when used, displays a logo
 # Ideally image is 50px high and takes up minimal horizontal space
-title-logo: /images/title-logo.jpg
+title-logo: /images/mm4spa-icon.png
 
 
 # Build settings
